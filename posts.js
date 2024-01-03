@@ -8,7 +8,7 @@ module.exports = [
     "picture": "http://placehold.it/32x32",
     "age": 24,
     "eyeColor": "green",
-    "name": "Summer Roth",
+    "name": "Julianic Chabignak",
     "gender": "female",
     "company": "KONGENE",
     "email": "summerroth@kongene.com",
