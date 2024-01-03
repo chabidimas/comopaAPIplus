@@ -98,7 +98,7 @@ module.exports = [
     "picture": "http://placehold.it/32x32",
     "age": 25,
     "eyeColor": "green",
-    "name": "Nieves Navarro",
+    "name": "Jai reussi ma vie",
     "gender": "male",
     "company": "BLUEGRAIN",
     "email": "nievesnavarro@bluegrain.com",
