@@ -53,7 +53,7 @@ module.exports = [
     "picture": "http://placehold.it/32x32",
     "age": 32,
     "eyeColor": "blue",
-    "name": "Linda Parrish",
+    "name": "creer une page de dedicace en dorect pour les clients. cela pourait etre comme la publicité bien voulant.",
     "gender": "female",
     "company": "MIXERS",
     "email": "lindaparrish@mixers.com",
