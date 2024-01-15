@@ -14,7 +14,7 @@ module.exports = [
     "email": "summerroth@kongene.com",
     "phone": "+1 (899) 594-2201",
     "address": "716 Farragut Place, Vandiver, Puerto Rico, 1123",
-    "about": "Sit nostrud nulla laboris irure. Exercitation ipsum eu occaecat incididunt anim Lorem laborum sint. Laborum adipisicing dolor commodo ipsum sint officia amet sit elit. Est esse ea cupidatat officia deserunt sunt laboris qui nulla enim sit ut esse.\r\n",
+    "about": "Tu fais du bon travail.\r\n",
     "registered": "2018-09-11T04:57:23 -02:00",
     "latitude": -17.407059,
     "longitude": 49.445761,
