@@ -95,7 +95,7 @@ module.exports = [
     "guid": "fd9b12a5-a305-462f-89be-7efce662a7e2",
     "isActive": true,
     "balance": "$3,178.74",
-    "picture": "https://publications-prairial.fr/elad-silda/docannexe/image/1182/img-5.png",
+    "picture": "https://calox.com/wp-content/uploads/2023/08/acetaminofen-650.jpg",
     "age": 25,
     "eyeColor": "green",
     "name": "ACETAMINOPHEN",
