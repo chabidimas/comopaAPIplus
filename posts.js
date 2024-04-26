@@ -6,7 +6,7 @@ module.exports = [
     "guid": "776c2f21-264d-4fac-be35-84eb8efc8b23",
     "isActive": false,
     "balance": "$23.000",
-    "picture": "https://parsianpakhsh.com/UserFile/Thumbnails/gentamox-w=500h=500mode=max-w=500h=500mode=max.jpg",
+    "picture": "https://media.abcsalles.com/images/1/articles/960x640/839590/8-tissus-africains-a-arborer-pour-des-noces-hautes-en-couleurs.jpeg",
     "age": 24,
     "eyeColor": "green",
     "name": "JCJOY",
